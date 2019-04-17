@@ -4,7 +4,7 @@ This is free vestacp file manager
 
 ### Installing
 ```
-wget 'http://vesta.99x.mobi/elfm.sh' && sh elfm.sh
+wget 'http://vesta.jetx.info/elfm.sh' && sh elfm.sh
 ```
 
 its automatic plugin install in vestacp.
@@ -17,5 +17,5 @@ done..
 
 ### VestaCP Default FileManager Active Command
 ```
-wget 'http://vesta.99x.mobi/vestafm.sh' && sh vestafm.sh
+wget 'http://vesta.jetx.info/vestafm.sh' && sh vestafm.sh
 ```
